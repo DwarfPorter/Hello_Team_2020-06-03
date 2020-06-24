@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "Привет", Toast.LENGTH_SHORT).show();
             }
         });
+        // коммент
 
     }
 }
